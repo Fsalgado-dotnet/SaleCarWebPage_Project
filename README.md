@@ -68,7 +68,7 @@ Este projeto foi realizado em estreita colaboração por:
 
 
 
-\* \*\*Filipe Salgado\*\* - \[@Fsalgado-dotnet](https://github.com/Fsalgado-dotnet)
+\* \*\*Fábio Salgado\*\* - \[@Fsalgado-dotnet](https://github.com/Fsalgado-dotnet)
 
 \* \*\*Frederico Ferreira\*\* - \[@Frederico-Ferreira-13](https://github.com/Frederico-Ferreira-13)
 
