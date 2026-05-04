@@ -21,7 +21,7 @@ ORM: Entity Framework Core (Code First approach)
 
 Frontend: HTML5, CSS3 (Luxury Design System), JavaScript (ES6+)
 
-Icons & Styling: FontAwesome 6 & Google Fonts
+Icons \& Styling: FontAwesome 6 \& Google Fonts
 
 🚀 The Challenge: Negotiation Logic
 The most complex part of this development was the Proposal Management System.
@@ -49,3 +49,32 @@ linkedin.com/in/fábio-salgado-4a7302135
 [GitHub](https://github.com/Fsalgado-dotnet)
 
 Email: fabio.salgado23@gmail.com
+
+
+
+
+
+\# SaleCar WebPage Project 🚗
+
+
+
+Projeto de gestão e venda de automóveis desenvolvido com ASP.NET Core Razor Pages.
+
+
+
+\## 🤝 Equipa de Desenvolvimento
+
+Este projeto foi realizado em estreita colaboração por:
+
+
+
+\* \*\*Filipe Salgado\*\* - \[@Fsalgado-dotnet](https://github.com/Fsalgado-dotnet)
+
+\* \*\*Frederico Ferreira\*\* - \[@Frederico-Ferreira-13](https://github.com/Frederico-Ferreira-13)
+
+
+
+\---
+
+\*Nota: Este repositório reflete o trabalho conjunto finalizado em Maio de 2026.\*
+
